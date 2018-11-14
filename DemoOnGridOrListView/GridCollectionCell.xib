@@ -21,7 +21,7 @@
                 <subviews>
                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0SY-rf-bm9">
                         <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
-                        <color key="backgroundColor" red="0.96470588239999999" green="0.59607843140000005" blue="0.35686274509999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.89554461480558678" green="0.96470588239999999" blue="0.10529351200613679" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="6RK-cA-cRb">
                         <rect key="frame" x="5" y="5" width="140" height="140"/>

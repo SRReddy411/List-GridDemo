@@ -25,7 +25,7 @@
     [super viewDidLoad];
     
     
-  photos =  [NSArray arrayWithObjects:
+  photos =  [NSArray arrayWithObjects:[UIImage imageNamed:@"image1.jpg"],[UIImage imageNamed:@"image2.jpg"],[UIImage imageNamed:@"image3.jpeg"],[UIImage imageNamed:@"image5.jpg"],[UIImage imageNamed:@"banner5.png"],
                         [UIImage imageNamed:@"banner3.jpg"],
                         [UIImage imageNamed:@"banner4.jpg"],
                         [UIImage imageNamed:@"shoppingbanner3.jpg"],
